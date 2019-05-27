@@ -1,0 +1,15 @@
+@import 'flatpickr/dist/flatpickr.min.css';
+
+body,.input,.button {font:normal 16px Verdana;margin:0;}
+
+.layout {margin:10px auto;max-width:1000px;}
+.menu {margin:0 0 30px;}
+.menu-item {padding:0 5px;}
+
+.label {display:block;margin:0 0 5px;}
+.input {border:1px solid #ddd;border-radius:3px;box-sizing:border-box;display:block;margin:0 0 10px;padding:10px 15px;width:100%;}
+.button {background:#eee;border:1px solid #ddd;border-radius:3px;color:#333;display:inline-block;margin:0 0 10px;padding:10px 15px;text-decoration:none;cursor:pointer;}
+.button:hover {background:#e8e8e8;}
+.button:disabled {color:grey;cursor:not-allowed;}
+
+.error {color: red;padding-bottom: 1em;}
